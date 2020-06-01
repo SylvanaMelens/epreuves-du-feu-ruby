@@ -1,6 +1,6 @@
 ## EPREUVES DU FEU
 
-Langage choisi : ruby
+Langage choisi : RUBY </br>
 8 épreuves, à exécuter depuis le shell
 
 ### Escalier
