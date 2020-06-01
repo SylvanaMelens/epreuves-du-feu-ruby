@@ -6,7 +6,7 @@ end
 def upstairs(steps)
     hash = 0
     space = steps
-    if steps.to_i == 0
+    if steps == 0
         puts "Please enter a min number of steps" 
     else
         steps.times {
