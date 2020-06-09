@@ -26,7 +26,7 @@ else
             end
             j += 1
         end
-    result = char.reverse
+        result = char.reverse
     end
     puts result
 end
