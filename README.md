@@ -29,14 +29,17 @@ Exemple : $> ./tri 4 5 1 3 2 </br>
 ### Rectangle 
 
 Créer un script qui affiche la position du carré passé en premier argument dans le carré du second argument. </br>
+Pour le test, passer en premier argument le fichier 'c1.txt' et en second argument le fichier 'c2.txt'.
 
 ### Anagrammes
 
-Créer un script qui affiche tous les anagrammes du premier argument contenus dans le fichier du second argument.
+Créer un script qui affiche tous les anagrammes du premier argument contenus dans le fichier du second argument. </br>
+Pour le test, passer en premier argument le mot 'arbre' et en second argument le fichier 'fr.txt'.
 
 ### Sudoku
 
-Créer un script qui affiche la solution du sudoku passé en premier argument.
+Créer un script qui affiche la solution du sudoku passé en premier argument.</br>
+Pour le test, passer le fichier 's.txt' en argument.
 
 ### Factorielle, le retour
 
